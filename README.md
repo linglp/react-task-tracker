@@ -23,9 +23,12 @@ json-server --watch db.json --port 5000
 
 To see the backend-server, just go to [http://localhost:5000/tasks](http://localhost:5000/tasks)
 
+
 Please also note that you have to insert your own map API key and Google calendar API key
 1) Open public/index.html: insert your own map api key 
 2) You would also need client ID and Google calendar API key
+
+To run the project, please do: npm install and then npm start
 
 
 **Some notes related to Google APIs:** 
