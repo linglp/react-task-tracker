@@ -39,3 +39,5 @@ To run the project, please do: npm install and then npm start
 4. More about Google calendar API: [https://developers.google.com/calendar/api/guides/auth](https://developers.google.com/calendar/api/guides/auth)
 5. Nice example of using Google calendar API: https://github.com/grantsingleton/gapi-events-react and the Youtube Video: [https://www.youtube.com/watch?v=zaRUq1siZZo](https://www.youtube.com/watch?v=zaRUq1siZZo) (But please note that the author made the Youtube video in 2020, so some of the contents are outdated)
 
+
+Note: This project was built on top of the React task tracker here: https://github.com/bradtraversy/react-crash-2021
